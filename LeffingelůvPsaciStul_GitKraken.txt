@@ -6,7 +6,7 @@ A3
 A4
 A5 - hromada sešitù
 B1 - hromada sešitù
-B2 - pracovní plocha
-B3 - pracovní plocha
-B4 - pracovní plocha
+B2 - notebook
+B3 - notebook
+B4 - notebook
 B5
