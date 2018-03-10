@@ -5,7 +5,7 @@ A2
 A3
 A4
 A5 - hromada sešitù
-B1 - hromada sešitù
+B1 - nabíjeèka na mobil
 B2 - pracovní plocha
 B3 - pracovní plocha
 B4 - pracovní plocha
